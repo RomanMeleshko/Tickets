@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+    background: #f3f7fa;
+}
+
+.center {
+    display: flex;
+    justify-content: flex-end;
+}
+* {
+    font-family: Lato-Light;
+}
